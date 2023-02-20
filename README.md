@@ -28,12 +28,14 @@ The code, comments and explanations will be provided in a Python Jupyter noteboo
 Note regarding working in a team or individually, and what you need to submit:
 
 You can work and submit in a team of 2 students - in which case you should choose a team leader.  As a team you should tackle the task above entirely. Include the names and student numbers of both of the team members on top of the Jupyter notebook. The team leader must perform the submission from their account (hence only once per team, for both students) on VLE. (You shouldn't submit twice, in each student's account.)
-  Linear Regression,
-  Ridge Regression,
-  Lasso Regression,
-  Elastic Net Regression,
-  Polynomial Regression with regularisation,
-  and Neural Network.
+  
+  
+    - [x] Linear Regression,
+    - [ ] Ridge Regression,
+    - [ ] Lasso Regression,
+    - [ ] Elastic Net Regression,
+    - [ ] Polynomial Regression with regularisation,
+    - [ ] and Neural Network.
 
 Marking criteria:
 
